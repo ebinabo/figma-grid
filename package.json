@@ -1,0 +1,25 @@
+{
+  "name": "figma-grid",
+  "version": "1.0.0",
+  "description": "A library that helps developers draw a Layout Grid like the ones on Figma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.js --no-cache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebinabo/figma-grid.git"
+  },
+  "keywords": [
+    "figma",
+    "layout",
+    "grid"
+  ],
+  "author": "ebinabo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ebinabo/figma-grid/issues"
+  },
+  "homepage": "https://github.com/ebinabo/figma-grid#readme"
+}
