@@ -463,5 +463,3 @@ class FigmaGrid {
         this.setStyle(this.layout)
     }
 }
-
-module.exports.FigmaGrid = FigmaGrid
