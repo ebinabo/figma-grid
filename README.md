@@ -5,6 +5,8 @@ A library that helps developers draw a Layout Grid like the ones on Figma.
 ## Using node.js
 `yarn add figma-grid` / `npm install figma-grid`
 
+`import { FigmaGrid } from 'figma-grid'`
+
 ## From a CDN
 `<script src="https://cdn.jsdelivr.net/npm/figma-grid/dist/index.min.js"></script>`
 
